@@ -1,0 +1,11 @@
+.search-container {
+    position: relative;
+  }
+  
+  .search-icon {
+    position: absolute;
+    top: 50%;
+    right: 20px; /* adjust as needed */
+    transform: translateY(-50%);
+  }
+  
